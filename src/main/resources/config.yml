@@ -1,0 +1,11 @@
+inventory:
+  # set the time in seconds where the player will be kick if he doesn't complete the captcha
+  kick_after: 10
+  message_done: "&aCaptcha completado correctamente."
+  kick: "&cHas sido kickeado del servidor."
+  title: "&aDale click al item."
+  item:
+    id: "35:5"
+    name: "&aCaptcha"
+    lore:
+      - '&aClickeame para entrar!'

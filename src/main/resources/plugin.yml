@@ -1,0 +1,7 @@
+name: Captcha
+version: ${project.version}
+main: lc.captcha.LCCaptcha
+commands:
+  captcha:
+    description: captcha
+    aliases: captcha
